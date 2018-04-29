@@ -5,10 +5,10 @@ html {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	font-family: 'Raleway', sans-serif;
 	}
 	
 .intro-splash{
+	font-family: 'Raleway', sans-serif;
 	width: 1280px;
 	height: 1024px;
 	background: rgba(0,0,0,0.4);
